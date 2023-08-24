@@ -6,7 +6,7 @@ Welcome to the NLP Spam-Ham Detection Project! This project focuses on using Nat
 
 The dataset used for this project is available for download. You can access it using the following link:
 
-[Download Dataset](https://example.com/dataset.zip)
+[Download Dataset](https://drive.google.com/file/d/1J8lIl9BlLLHzgvCqEpENs8MKdpRA-ApI/view?usp=sharing)
 
 The dataset consists of labeled examples of both spam and ham messages. It has been preprocessed and is ready for use in training and evaluating the models.
 
