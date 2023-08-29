@@ -3,7 +3,7 @@
 Welcome to the Twitter Sentiment Analysis Project! This project focuses on performing sentiment analysis on Twitter data to predict the sentiment (positive, negative, or neutral) of tweets. The project involves the implementation of two models: a Support Vector Machine (SVM) classifier with TF-IDF features and a Long Short-Term Memory (LSTM) model with one-hot encoding.
 
 ## Data
-The dataset used for this project comprises a collection of tweets gathered from Twitter. Each tweet is labeled with its corresponding sentiment, making it a suitable dataset for training and evaluating sentiment analysis models.
+The dataset used for this project comprises a collection of tweets gathered from Twitter.
 
 [Download Dataset](https://drive.google.com/file/d/134VAkSQ5ndngSo1i7FPARTxXG8adkImj/view?usp=sharing)
 
@@ -15,18 +15,10 @@ The dataset used for this project comprises a collection of tweets gathered from
 - Provide insights into the strengths and limitations of each approach.
 
 ## Files and Folders
-- `data/`: The directory containing the dataset used for training and evaluation.
+- `data/`: Download link for twitter data is provided above.
 - `notebooks/`: Jupyter notebooks used for data preprocessing, model training, and evaluation.
-- `models/`: Saved model files after training.
-- `utils/`: Utility scripts for preprocessing and other functions.
 - `README.md`: This file, offering a comprehensive overview of the project.
 
-## Usage
-1. Download or obtain the dataset and place it in the `data/` folder.
-2. Explore the Jupyter notebooks in the `notebooks/` directory for data preprocessing, model training, and evaluation.
-3. Execute the necessary scripts to train the SVM and LSTM models.
-4. Check the `models/` folder for saved model files.
-5. Review the insights and performance metrics provided in the notebooks to understand each model's effectiveness.
 
 ## Dependencies
 List the dependencies and versions required to run the project. For example:
