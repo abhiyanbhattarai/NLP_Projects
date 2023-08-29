@@ -27,6 +27,7 @@ List the dependencies and versions required to run the project. For example:
 - TensorFlow
 - Pandas
 - NumPy
+- Seaborn
 
 ## Results and Interpretation
 - Present the performance metrics of the SVM and LSTM models on the validation and test sets.
