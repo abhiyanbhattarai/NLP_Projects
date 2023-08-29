@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis Project
 
-Welcome to the Twitter Sentiment Analysis Project! This project focuses on performing sentiment analysis on Twitter data to predict the sentiment (positive, negative, or neutral) of tweets. The project involves the implementation of two models: a Support Vector Machine (SVM) classifier with TF-IDF features and a Long Short-Term Memory (LSTM) model with one-hot encoding.
+Welcome to the Twitter Sentiment Analysis Project! This project focuses on performing sentiment analysis on Twitter data to predict the sentiment (positive or negative) of tweets. The project involves the implementation of two models: a Support Vector Machine (SVM) classifier with TF-IDF features and a Long Short-Term Memory (LSTM) model with one-hot encoding.
 
 ## Data
 The dataset used for this project comprises a collection of tweets gathered from Twitter.
